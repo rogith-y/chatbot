@@ -1,0 +1,48 @@
+[2020-03-07 22:09:57.973] [exthost] [info] extension host started
+[2020-03-07 22:09:58.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:58.132] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-07 22:09:58.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:58.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-07 22:09:58.552] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:58.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-07 22:09:59.119] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:59.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-07 22:09:59.134] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:59.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2020-03-07 22:09:59.272] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:59.272] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/hoovercj.vscode-power-mode-2.2.0/out/src/extension
+[2020-03-07 22:09:59.538] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:09:59.538] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/humy2833.ftp-simple-0.7.5/extension
+[2020-03-07 22:10:03.755] [exthost] [info] ExtensionService#_doActivateExtension padjon.save-and-run-ext {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:03.755] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/padjon.save-and-run-ext-0.0.16/out/src/extension
+[2020-03-07 22:10:03.833] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:03.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-03-07 22:10:04.343] [exthost] [info] ExtensionService#_doActivateExtension wk-j.save-and-run {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:04.343] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/wk-j.save-and-run-0.0.21/out/src/extension
+[2020-03-07 22:10:05.080] [exthost] [info] eager extensions activated
+[2020-03-07 22:10:26.122] [exthost] [info] extension host started
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/hoovercj.vscode-power-mode-2.2.0/out/src/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension humy2833.ftp-simple {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/humy2833.ftp-simple-0.7.5/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension padjon.save-and-run-ext {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/padjon.save-and-run-ext-0.0.16/out/src/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension wk-j.save-and-run {"startup":true,"activationEvent":"*"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/rogith/.vscode/extensions/wk-j.save-and-run-0.0.21/out/src/extension
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2020-03-07 22:10:26.122] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2020-03-07 22:10:26.122] [exthost] [info] eager extensions activated
+[2020-03-07 22:16:36.187] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2020-03-07 22:16:36.188] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
